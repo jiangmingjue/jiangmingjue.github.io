@@ -1,11 +1,9 @@
-title: Your awesome title
+title: jiang mingjue
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: jiangmingjue
+  email: jiangmingjue@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  jiangmingjue
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,8 +14,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: jiangmingjue
+    github:  jiangmingjue
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -28,7 +26,7 @@ minima:
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
-    # telegram: jekyll
+    telegram: jiangmingjue
     # googleplus: +jekyll
     # microdotblog: jekyll
     # keybase: jekyll
@@ -58,3 +56,4 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-tagging
