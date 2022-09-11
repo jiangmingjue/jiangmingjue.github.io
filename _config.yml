@@ -26,13 +26,13 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
+  fullname                  : jiang mingjue
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
-  twitter                   : twitter-user-name
-  github                    : github-user-name
-  youtube                   : youtube-user-name
-  stackoverflow             : stackoverflow-user-name
+  mail                      : jiangmingjue@gmail.com # change to your e-mail address
+  twitter                   : jiangmingjue
+  github                    : jiangmingjue
+  youtube                   : jiangmingjue
+  stackoverflow             : jiangmingjue
   disqus                    : dactl # your disqus site name
   google_analytics          : # 'UA-XXXXXXXX-X'
   photo                     : "uploads/me2.png"
