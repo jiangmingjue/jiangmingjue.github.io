@@ -5,7 +5,7 @@ url                          : "https://jiangmingjue.github.io/" # the base host
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : jiang mingjue
+  title                      : jmj
   description                  : >
                                this should contain a proper description
 
@@ -26,7 +26,7 @@ blog:
 
 # Author info
 author:
-  fullname                  : jiang mingjue
+  fullname                  : jmj
   rss                       : true # generate RSS feed and show it's icon in header
   mail                      : jiangmingjue@gmail.com # change to your e-mail address
   twitter                   : jiangmingjue
