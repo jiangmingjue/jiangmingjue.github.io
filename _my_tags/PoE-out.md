@@ -1,5 +1,5 @@
 ---
-slug: PoE-out
+slug: poe-out
 name: PoE-out
 description: >
   `PoE-out`，具有至少一个 PoE-Out 接口的 MikroTik 设备上使用PoE-Out（以太网供电）功能。
