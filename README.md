@@ -1,9 +1,3 @@
-# dactl
-dactl is a fast, modern and configurable [Jekyll](http://jekyllrb.com/) theme with some tricks up it's sleeve. It has a live theme switcher and it's main blog layout display prominent hero images for posts with colored overlays and nice animations.
-
-![light theme](uploads/screenshot_desktop_light.jpg)
-![dark theme](uploads/screenshot_desktop_dark.jpg)
-
 ## Features
 Though minimalistic-looking by nature, dactl is easily configurable and includes quite a lot of niceties:
 
@@ -131,9 +125,3 @@ Inspiration and bits of things listed below are present inside dactl's code:
 - [Trophy](https://github.com/thomasvaeth/trophy-jekyll) - Link border slide animation SASS mixin which I slightly modified to be able to easily change the direction of the animation.
 - Various blog posts about Jekyll and [Stackoverflow](https://www.stackoverflow.com) posts with useful [Liquid](https://github.com/Shopify/liquid) snippets.
 
-## License
-All parts of dactl Jekyll theme are free to use and abuse under the open-source [MIT license](http://opensource.org/licenses/mit-license.php).
-
-## TO DO
-- [ ] Inline critical `.css` in `<head>` for faster load times
-- [ ] Fix theme-switcher - sometimes it does not inject all of the colors properly on first page load and a refresh, fixes itself after switching the theme back and forth.
