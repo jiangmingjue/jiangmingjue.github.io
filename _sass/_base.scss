@@ -22,12 +22,12 @@ body {
       margin-bottom: 8em;
       }
 .wrapper {
-    max-width: 48rem;
+    max-width: 88rem;
     margin: 4rem auto 4rem auto;
 }
 
 
-@media (max-width: 48rem) {
+@media (max-width: 88rem) {
     body {
       font-size: $mobile-font-size;
     }
