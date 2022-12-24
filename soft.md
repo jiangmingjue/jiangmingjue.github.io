@@ -29,9 +29,9 @@ duckduckgo
 1 uomg
 ![ ](https://api.uomg.com/api/get.favicon?url=google.com)
 
-[Oracle VM VirtualBox](https://www.virtualbox.org/)
-[Parallels: Mac & Windows Virtualization, Remote Application Server, Mac Management Solutions](https://www.parallels.com/)
-HyperV
-[VMware - Delivering a Digital Foundation For Businesses](https://www.vmware.com/)
-[Docker: Accelerated, Containerized Application Development](https://www.docker.com/)
-[PeaZip free archiver utility, open extract RAR TAR ZIP files](https://peazip.github.io/)
+[Oracle VM VirtualBox](https://www.virtualbox.org/) ｜ 
+[Parallels: Mac & Windows Virtualization, Remote Application Server, Mac Management Solutions](https://www.parallels.com/) ｜ 
+HyperV ｜ 
+[VMware - Delivering a Digital Foundation For Businesses](https://www.vmware.com/) ｜ 
+[Docker: Accelerated, Containerized Application Development](https://www.docker.com/) ｜ 
+[PeaZip free archiver utility, open extract RAR TAR ZIP files](https://peazip.github.io/) ｜ 
