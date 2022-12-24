@@ -6,7 +6,7 @@ published: true
 ---
 
 <div class="page" markdown="1">
-
+<base target="_blank">
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
 ## 软件网址
