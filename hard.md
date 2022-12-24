@@ -7,9 +7,6 @@ published: true
 
 <div class="page" markdown="1">
 
-{% capture page_subtitle %}
-{% endcapture %}
-
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
 ## Some heading
