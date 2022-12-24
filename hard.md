@@ -43,5 +43,5 @@ duckduckgo
 <br>
 ##迷你小主机
 <br>
-[MOREFINE摩方](http://www.imorefine.com/)
+![](https://www.google.com/s2/favicons?domain=imorefine.com)[MOREFINE摩方](http://www.imorefine.com/)
 [beelink零刻](https://www.bee-link.cn/)
